@@ -1,0 +1,7 @@
+c:\users\берик\Source\Repos\FARmanager\FARmanager\bin\Debug\FARmanager.exe.config
+c:\users\берик\Source\Repos\FARmanager\FARmanager\bin\Debug\FARmanager.exe
+c:\users\берик\Source\Repos\FARmanager\FARmanager\bin\Debug\FARmanager.pdb
+c:\users\берик\Source\Repos\FARmanager\FARmanager\obj\Debug\FARmanager.csprojResolveAssemblyReference.cache
+c:\users\берик\Source\Repos\FARmanager\FARmanager\obj\Debug\FARmanager.csproj.CoreCompileInputs.cache
+c:\users\берик\Source\Repos\FARmanager\FARmanager\obj\Debug\FARmanager.exe
+c:\users\берик\Source\Repos\FARmanager\FARmanager\obj\Debug\FARmanager.pdb

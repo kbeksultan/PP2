@@ -1,0 +1,10 @@
+C:\Users\Берик\Source\Repos\Final\fallingCircle\bin\Debug\fallingCircle.exe.config
+C:\Users\Берик\Source\Repos\Final\fallingCircle\bin\Debug\fallingCircle.exe
+C:\Users\Берик\Source\Repos\Final\fallingCircle\bin\Debug\fallingCircle.pdb
+C:\Users\Берик\Source\Repos\Final\fallingCircle\obj\Debug\fallingCircle.Form1.resources
+C:\Users\Берик\Source\Repos\Final\fallingCircle\obj\Debug\fallingCircle.Properties.Resources.resources
+C:\Users\Берик\Source\Repos\Final\fallingCircle\obj\Debug\fallingCircle.csproj.GenerateResource.cache
+C:\Users\Берик\Source\Repos\Final\fallingCircle\obj\Debug\fallingCircle.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\Final\fallingCircle\obj\Debug\fallingCircle.exe
+C:\Users\Берик\Source\Repos\Final\fallingCircle\obj\Debug\fallingCircle.pdb
+C:\Users\Берик\Source\Repos\Final\fallingCircle\obj\Debug\fallingCircle.csprojResolveAssemblyReference.cache

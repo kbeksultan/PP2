@@ -1,0 +1,14 @@
+C:\Users\Берик\Source\Repos\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.exe.config
+C:\Users\Берик\Source\Repos\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.exe
+C:\Users\Берик\Source\Repos\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.pdb
+C:\Users\Берик\Source\Repos\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Берик\Source\Repos\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.exe
+C:\Users\Берик\Source\Repos\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.pdb
+C:\Users\Берик\Source\Repos\Lab2\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Берик\Source\Repos\Lab2\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\Lab2\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.exe
+C:\Users\Берик\Source\Repos\Lab2\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.pdb
+C:\Users\Берик\Source\Repos\Lab2\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.exe.config
+C:\Users\Берик\Source\Repos\Lab2\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.exe
+C:\Users\Берик\Source\Repos\Lab2\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.pdb

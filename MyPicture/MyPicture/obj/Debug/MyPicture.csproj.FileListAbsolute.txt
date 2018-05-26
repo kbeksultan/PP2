@@ -1,0 +1,9 @@
+C:\Users\Берик\Source\Repos\MyPicture\MyPicture\bin\Debug\MyPicture.exe.config
+C:\Users\Берик\Source\Repos\MyPicture\MyPicture\bin\Debug\MyPicture.exe
+C:\Users\Берик\Source\Repos\MyPicture\MyPicture\bin\Debug\MyPicture.pdb
+C:\Users\Берик\Source\Repos\MyPicture\MyPicture\obj\Debug\MyPicture.Form1.resources
+C:\Users\Берик\Source\Repos\MyPicture\MyPicture\obj\Debug\MyPicture.Properties.Resources.resources
+C:\Users\Берик\Source\Repos\MyPicture\MyPicture\obj\Debug\MyPicture.csproj.GenerateResource.cache
+C:\Users\Берик\Source\Repos\MyPicture\MyPicture\obj\Debug\MyPicture.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\MyPicture\MyPicture\obj\Debug\MyPicture.exe
+C:\Users\Берик\Source\Repos\MyPicture\MyPicture\obj\Debug\MyPicture.pdb

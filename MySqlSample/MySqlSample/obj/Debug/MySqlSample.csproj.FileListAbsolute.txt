@@ -1,0 +1,13 @@
+C:\Users\Берик\Source\Repos\MySqlSample\MySqlSample\bin\Debug\MySqlSample.exe.config
+C:\Users\Берик\Source\Repos\MySqlSample\MySqlSample\bin\Debug\MySqlSample.exe
+C:\Users\Берик\Source\Repos\MySqlSample\MySqlSample\bin\Debug\MySqlSample.pdb
+C:\Users\Берик\Source\Repos\MySqlSample\MySqlSample\bin\Debug\MySql.Data.dll
+C:\Users\Берик\Source\Repos\MySqlSample\MySqlSample\bin\Debug\MySql.Data.xml
+C:\Users\Берик\Source\Repos\MySqlSample\MySqlSample\obj\Debug\MySqlSample.csprojResolveAssemblyReference.cache
+C:\Users\Берик\Source\Repos\MySqlSample\MySqlSample\obj\Debug\MySqlSample.Form1.resources
+C:\Users\Берик\Source\Repos\MySqlSample\MySqlSample\obj\Debug\MySqlSample.Properties.Resources.resources
+C:\Users\Берик\Source\Repos\MySqlSample\MySqlSample\obj\Debug\MySqlSample.csproj.GenerateResource.cache
+C:\Users\Берик\Source\Repos\MySqlSample\MySqlSample\obj\Debug\MySqlSample.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\MySqlSample\MySqlSample\obj\Debug\MySqlSample.csproj.CopyComplete
+C:\Users\Берик\Source\Repos\MySqlSample\MySqlSample\obj\Debug\MySqlSample.exe
+C:\Users\Берик\Source\Repos\MySqlSample\MySqlSample\obj\Debug\MySqlSample.pdb

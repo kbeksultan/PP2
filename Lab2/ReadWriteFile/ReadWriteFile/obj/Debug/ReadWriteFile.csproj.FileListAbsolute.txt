@@ -1,0 +1,13 @@
+C:\Users\Берик\Source\Repos\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.exe.config
+C:\Users\Берик\Source\Repos\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.exe
+C:\Users\Берик\Source\Repos\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.pdb
+C:\Users\Берик\Source\Repos\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.exe
+C:\Users\Берик\Source\Repos\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.pdb
+C:\Users\Берик\Source\Repos\Lab2\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.exe.config
+C:\Users\Берик\Source\Repos\Lab2\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.exe
+C:\Users\Берик\Source\Repos\Lab2\ReadWriteFile\ReadWriteFile\bin\Debug\ReadWriteFile.pdb
+C:\Users\Берик\Source\Repos\Lab2\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\Lab2\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.exe
+C:\Users\Берик\Source\Repos\Lab2\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.pdb
+C:\Users\Берик\Source\Repos\Lab2\ReadWriteFile\ReadWriteFile\obj\Debug\ReadWriteFile.csprojResolveAssemblyReference.cache

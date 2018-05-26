@@ -1,0 +1,6 @@
+C:\Users\Берик\Source\Repos\Final\Solution3\bin\Debug\Solution3.exe.config
+C:\Users\Берик\Source\Repos\Final\Solution3\bin\Debug\Solution3.exe
+C:\Users\Берик\Source\Repos\Final\Solution3\bin\Debug\Solution3.pdb
+C:\Users\Берик\Source\Repos\Final\Solution3\obj\Debug\FirstSolution3.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\Final\Solution3\obj\Debug\Solution3.exe
+C:\Users\Берик\Source\Repos\Final\Solution3\obj\Debug\Solution3.pdb

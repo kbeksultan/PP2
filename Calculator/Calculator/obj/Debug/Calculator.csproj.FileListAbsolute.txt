@@ -1,0 +1,10 @@
+C:\Users\Берик\Source\Repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Берик\Source\Repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Берик\Source\Repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Берик\Source\Repos\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Берик\Source\Repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Берик\Source\Repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Берик\Source\Repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Берик\Source\Repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Берик\Source\Repos\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,6 @@
+C:\Users\Берик\Source\Repos\Final\FirstSolution4\bin\Debug\FirstSolution4.exe.config
+C:\Users\Берик\Source\Repos\Final\FirstSolution4\bin\Debug\FirstSolution4.exe
+C:\Users\Берик\Source\Repos\Final\FirstSolution4\bin\Debug\FirstSolution4.pdb
+C:\Users\Берик\Source\Repos\Final\FirstSolution4\obj\Debug\FirstSolution4Clock.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\Final\FirstSolution4\obj\Debug\FirstSolution4.exe
+C:\Users\Берик\Source\Repos\Final\FirstSolution4\obj\Debug\FirstSolution4.pdb

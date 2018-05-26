@@ -1,0 +1,14 @@
+C:\Users\Берик\Source\Repos\FarManager\FarManager\bin\Debug\FarManager.exe.config
+C:\Users\Берик\Source\Repos\FarManager\FarManager\bin\Debug\FarManager.exe
+C:\Users\Берик\Source\Repos\FarManager\FarManager\bin\Debug\FarManager.pdb
+C:\Users\Берик\Source\Repos\FarManager\FarManager\obj\Debug\FarManager.csprojResolveAssemblyReference.cache
+C:\Users\Берик\Source\Repos\FarManager\FarManager\obj\Debug\FarManager.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\FarManager\FarManager\obj\Debug\FarManager.exe
+C:\Users\Берик\Source\Repos\FarManager\FarManager\obj\Debug\FarManager.pdb
+C:\Users\Берик\Source\Repos\Lab3\FarManager\FarManager\bin\Debug\FarManager.exe.config
+C:\Users\Берик\Source\Repos\Lab3\FarManager\FarManager\bin\Debug\FarManager.exe
+C:\Users\Берик\Source\Repos\Lab3\FarManager\FarManager\bin\Debug\FarManager.pdb
+C:\Users\Берик\Source\Repos\Lab3\FarManager\FarManager\obj\Debug\FarManager.csprojResolveAssemblyReference.cache
+C:\Users\Берик\Source\Repos\Lab3\FarManager\FarManager\obj\Debug\FarManager.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\Lab3\FarManager\FarManager\obj\Debug\FarManager.exe
+C:\Users\Берик\Source\Repos\Lab3\FarManager\FarManager\obj\Debug\FarManager.pdb

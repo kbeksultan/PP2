@@ -1,0 +1,6 @@
+c:\users\берик\Source\Repos\ComplexSer\ComplexSer\bin\Debug\ComplexSer.exe.config
+c:\users\берик\Source\Repos\ComplexSer\ComplexSer\bin\Debug\ComplexSer.exe
+c:\users\берик\Source\Repos\ComplexSer\ComplexSer\bin\Debug\ComplexSer.pdb
+c:\users\берик\Source\Repos\ComplexSer\ComplexSer\obj\Debug\ComplexSer.csproj.CoreCompileInputs.cache
+c:\users\берик\Source\Repos\ComplexSer\ComplexSer\obj\Debug\ComplexSer.exe
+c:\users\берик\Source\Repos\ComplexSer\ComplexSer\obj\Debug\ComplexSer.pdb

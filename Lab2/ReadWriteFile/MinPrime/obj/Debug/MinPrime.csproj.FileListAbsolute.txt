@@ -1,0 +1,14 @@
+C:\Users\Берик\Source\Repos\ReadWriteFile\MinPrime\bin\Debug\MinPrime.exe.config
+C:\Users\Берик\Source\Repos\ReadWriteFile\MinPrime\bin\Debug\MinPrime.exe
+C:\Users\Берик\Source\Repos\ReadWriteFile\MinPrime\bin\Debug\MinPrime.pdb
+C:\Users\Берик\Source\Repos\ReadWriteFile\MinPrime\obj\Debug\MinPrime.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\ReadWriteFile\MinPrime\obj\Debug\MinPrime.exe
+C:\Users\Берик\Source\Repos\ReadWriteFile\MinPrime\obj\Debug\MinPrime.pdb
+C:\Users\Берик\Source\Repos\ReadWriteFile\MinPrime\obj\Debug\MinPrime.csprojResolveAssemblyReference.cache
+C:\Users\Берик\Source\Repos\Lab2\ReadWriteFile\MinPrime\bin\Debug\MinPrime.exe.config
+C:\Users\Берик\Source\Repos\Lab2\ReadWriteFile\MinPrime\bin\Debug\MinPrime.exe
+C:\Users\Берик\Source\Repos\Lab2\ReadWriteFile\MinPrime\bin\Debug\MinPrime.pdb
+C:\Users\Берик\Source\Repos\Lab2\ReadWriteFile\MinPrime\obj\Debug\MinPrime.csprojResolveAssemblyReference.cache
+C:\Users\Берик\Source\Repos\Lab2\ReadWriteFile\MinPrime\obj\Debug\MinPrime.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\Lab2\ReadWriteFile\MinPrime\obj\Debug\MinPrime.exe
+C:\Users\Берик\Source\Repos\Lab2\ReadWriteFile\MinPrime\obj\Debug\MinPrime.pdb

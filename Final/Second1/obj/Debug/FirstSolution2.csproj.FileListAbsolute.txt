@@ -1,0 +1,7 @@
+C:\Users\Берик\Source\Repos\Final\Second1\bin\Debug\Second1.exe.config
+C:\Users\Берик\Source\Repos\Final\Second1\bin\Debug\Second1.exe
+C:\Users\Берик\Source\Repos\Final\Second1\bin\Debug\Second1.pdb
+C:\Users\Берик\Source\Repos\Final\Second1\obj\Debug\FirstSolution2.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\Final\Second1\obj\Debug\Second1.exe
+C:\Users\Берик\Source\Repos\Final\Second1\obj\Debug\Second1.pdb
+C:\Users\Берик\Source\Repos\Final\Second1\obj\Debug\FirstSolution2.csprojResolveAssemblyReference.cache

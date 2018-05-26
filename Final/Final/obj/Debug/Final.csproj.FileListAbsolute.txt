@@ -1,0 +1,7 @@
+C:\Users\Берик\Source\Repos\Final\Final\bin\Debug\Final.exe.config
+C:\Users\Берик\Source\Repos\Final\Final\bin\Debug\Final.exe
+C:\Users\Берик\Source\Repos\Final\Final\bin\Debug\Final.pdb
+C:\Users\Берик\Source\Repos\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\Берик\Source\Repos\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\Final\Final\obj\Debug\Final.exe
+C:\Users\Берик\Source\Repos\Final\Final\obj\Debug\Final.pdb

@@ -1,0 +1,10 @@
+C:\Users\Берик\Source\Repos\Final\TaskPie\bin\Debug\TaskPie.exe.config
+C:\Users\Берик\Source\Repos\Final\TaskPie\bin\Debug\TaskPie.exe
+C:\Users\Берик\Source\Repos\Final\TaskPie\bin\Debug\TaskPie.pdb
+C:\Users\Берик\Source\Repos\Final\TaskPie\obj\Debug\TaskPie.csprojResolveAssemblyReference.cache
+C:\Users\Берик\Source\Repos\Final\TaskPie\obj\Debug\TaskPie.Form1.resources
+C:\Users\Берик\Source\Repos\Final\TaskPie\obj\Debug\TaskPie.Properties.Resources.resources
+C:\Users\Берик\Source\Repos\Final\TaskPie\obj\Debug\TaskPie.csproj.GenerateResource.cache
+C:\Users\Берик\Source\Repos\Final\TaskPie\obj\Debug\TaskPie.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\Final\TaskPie\obj\Debug\TaskPie.exe
+C:\Users\Берик\Source\Repos\Final\TaskPie\obj\Debug\TaskPie.pdb

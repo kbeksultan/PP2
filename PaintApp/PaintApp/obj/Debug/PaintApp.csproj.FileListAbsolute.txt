@@ -1,0 +1,10 @@
+C:\Users\Берик\Source\Repos\PaintApp\PaintApp\bin\Debug\PaintApp.exe.config
+C:\Users\Берик\Source\Repos\PaintApp\PaintApp\bin\Debug\PaintApp.exe
+C:\Users\Берик\Source\Repos\PaintApp\PaintApp\bin\Debug\PaintApp.pdb
+C:\Users\Берик\Source\Repos\PaintApp\PaintApp\obj\Debug\PaintApp.csprojResolveAssemblyReference.cache
+C:\Users\Берик\Source\Repos\PaintApp\PaintApp\obj\Debug\PaintApp.Form1.resources
+C:\Users\Берик\Source\Repos\PaintApp\PaintApp\obj\Debug\PaintApp.Properties.Resources.resources
+C:\Users\Берик\Source\Repos\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.GenerateResource.cache
+C:\Users\Берик\Source\Repos\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\PaintApp\PaintApp\obj\Debug\PaintApp.exe
+C:\Users\Берик\Source\Repos\PaintApp\PaintApp\obj\Debug\PaintApp.pdb

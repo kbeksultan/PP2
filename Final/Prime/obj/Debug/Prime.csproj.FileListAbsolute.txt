@@ -1,0 +1,10 @@
+C:\Users\Берик\Source\Repos\Final\Prime\bin\Debug\Prime.exe.config
+C:\Users\Берик\Source\Repos\Final\Prime\bin\Debug\Prime.exe
+C:\Users\Берик\Source\Repos\Final\Prime\bin\Debug\Prime.pdb
+C:\Users\Берик\Source\Repos\Final\Prime\obj\Debug\Prime.csprojResolveAssemblyReference.cache
+C:\Users\Берик\Source\Repos\Final\Prime\obj\Debug\Prime.Form1.resources
+C:\Users\Берик\Source\Repos\Final\Prime\obj\Debug\Prime.Properties.Resources.resources
+C:\Users\Берик\Source\Repos\Final\Prime\obj\Debug\Prime.csproj.GenerateResource.cache
+C:\Users\Берик\Source\Repos\Final\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\Final\Prime\obj\Debug\Prime.exe
+C:\Users\Берик\Source\Repos\Final\Prime\obj\Debug\Prime.pdb

@@ -1,0 +1,14 @@
+C:\Users\Берик\Source\Repos\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\Берик\Source\Repos\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\Берик\Source\Repos\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\Берик\Source\Repos\Rectangle\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Берик\Source\Repos\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\Берик\Source\Repos\Rectangle\Rectangle\obj\Debug\Rectangle.pdb
+C:\Users\Берик\Source\Repos\Lab1\Rectangles\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\Берик\Source\Repos\Lab1\Rectangles\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\Берик\Source\Repos\Lab1\Rectangles\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\Берик\Source\Repos\Lab1\Rectangles\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Берик\Source\Repos\Lab1\Rectangles\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\Lab1\Rectangles\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\Берик\Source\Repos\Lab1\Rectangles\Rectangle\obj\Debug\Rectangle.pdb

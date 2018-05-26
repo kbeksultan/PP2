@@ -1,0 +1,7 @@
+C:\Users\Берик\Source\Repos\Final\Traffic light\bin\Debug\Traffic light.exe.config
+C:\Users\Берик\Source\Repos\Final\Traffic light\bin\Debug\Traffic light.exe
+C:\Users\Берик\Source\Repos\Final\Traffic light\bin\Debug\Traffic light.pdb
+C:\Users\Берик\Source\Repos\Final\Traffic light\obj\Debug\Traffic light.csprojResolveAssemblyReference.cache
+C:\Users\Берик\Source\Repos\Final\Traffic light\obj\Debug\Traffic light.csproj.CoreCompileInputs.cache
+C:\Users\Берик\Source\Repos\Final\Traffic light\obj\Debug\Traffic light.exe
+C:\Users\Берик\Source\Repos\Final\Traffic light\obj\Debug\Traffic light.pdb
